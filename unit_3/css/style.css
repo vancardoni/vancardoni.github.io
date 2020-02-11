@@ -2,8 +2,8 @@ style.css
 body {
 	text-align: center;
 	background: url(https://www.instagram.com/p/B8Wn8YZBB6a/); 
-	background:FFBBB8;
-	color: #FFF;
+	background:#FFBBB8;
+	text-color: #FFF;
 	background-size: cover;
 	font-family: Helvetica
 }
