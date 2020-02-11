@@ -1,10 +1,31 @@
 style.css
 body {
-	background-color: #FFC5BB;
-	background-image: "images/beachsunset.jpg";
+	text-align: center;
+	background: url(https://www.instagram.com/p/B8Wn8YZBB6a/); 
+	color: #FFC5BB;
 	background-size: cover;
+	font-family: Helvetica
 }
 
-h1, p {
-	color:#51BDB0;
+hr{
+	width: 200px;
 }
+
+h1{
+	text-align: center;
+	font-size: 32px
+	color: #FFF; 
+}
+p{
+	font-size: 22px
+}
+ul{
+	font-size: 22px
+}
+li{
+	font-size: 22px;
+}
+img{ 
+	image: cover;
+ }
+#slogan
