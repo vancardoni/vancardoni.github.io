@@ -2,7 +2,8 @@ style.css
 body {
 	text-align: center;
 	background: url(https://www.instagram.com/p/B8Wn8YZBB6a/); 
-	color: #FFC5BB;
+	background:FFBBB8;
+	color: #FFF;
 	background-size: cover;
 	font-family: Helvetica
 }
@@ -27,5 +28,6 @@ li{
 }
 img{ 
 	image: cover;
+	background-image: (https://www.instagram.com/p/B8Wn8YZBB6a/);
  }
 #slogan
