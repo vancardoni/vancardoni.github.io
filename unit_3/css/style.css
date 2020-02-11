@@ -1,0 +1,10 @@
+style.css
+body {
+	background-color: #FFC5BB;
+	background-image: "images/beachsunset.jpg";
+	background-size: cover;
+}
+
+h1, p {
+	color:#51BDB0;
+}
