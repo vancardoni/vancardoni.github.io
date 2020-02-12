@@ -17,14 +17,17 @@ h1{
 
 p{
 	font-size: 22px;
+	color: #FFF;
 }
 ul{
 	font-size: 22px;
 	text-align: center;
 	list-style-type: none;
+	color: #FFF
 }
 li{
 	font-size: 22px;
+	color: #FFF
 }
 #slogan{
 	font-style: italic;
