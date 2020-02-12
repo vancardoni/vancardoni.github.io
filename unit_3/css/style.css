@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	background: url(https://image.freepik.com/fotos-gratis/ilha-paradisiaca-bonita-com-praia-e-mar_74190-1023.jpg); 
-	background:#FFBBB8;
+	background:#E8C9C1;
 	color: #FFF;
 	background-size: cover;
 	font-family: Helvetica;
@@ -11,7 +11,7 @@ h1{
 	text-align: center;
 	font-size: 32px;
 	color: #4DB388;
-	background-color:#EBA791;
+	background-color:#E8C9C1;
 
 }
 
@@ -28,6 +28,7 @@ li{
 }
 #slogan{
 	font-style: italic;
-	
+	color:#4BB398;
+
 }
 
