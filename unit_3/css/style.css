@@ -1,7 +1,6 @@
 style.css
 body {
 	text-align: center;
-	background-color: #4DB388
 	background: url(https://br.freepik.com/fotos-gratis/ilha-paradisiaca-bonita-com-praia-e-mar_3531645.htm#page=1&query=praia&position=2); 
 	background:#FFBBB8;
 	color: #FFF;
@@ -9,14 +8,11 @@ body {
 	font-family: Helvetica
 }
 
-hr{
-	width: 200px;
-}
-
 h1{
 	text-align: center;
 	font-size: 32px
-	color: #FFF; 
+	color: #4DB388
+	background-color:#EBA791; 
 }
 p{
 	font-size: 22px
@@ -29,6 +25,6 @@ li{
 }
 img{ 
 	image: cover;
-	background-image: (https://br.freepik.com/fotos-gratis/ilha-paradisiaca-bonita-com-praia-e-mar_3531645.htm#page=1&query=praia&position=2);
+	background-image: url(https://br.freepik.com/fotos-gratis/ilha-paradisiaca-bonita-com-praia-e-mar_3531645.htm#page=1&query=praia&position=2);
  }
 #slogan
