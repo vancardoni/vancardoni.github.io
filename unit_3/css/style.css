@@ -10,8 +10,8 @@ body {
 h1{
 	text-align: center;
 	font-size: 32px;
-	color: #4DB388;
-	background-color:#EBA791;
+	color: #E8C8C1;
+	background-color:#E8C8C1;
 
 }
 
@@ -19,7 +19,7 @@ p{
 	font-size: 22px;
 }
 ul{
-	font-size: 22px;
+	font-size: 18px;
 	text-align: center;
 	list-style-type: none;
 }
