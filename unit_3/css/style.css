@@ -1,7 +1,8 @@
 style.css
 body {
 	text-align: center;
-	background: url(https://www.instagram.com/p/B8Wn8YZBB6a/); 
+	background-color: #4DB388
+	background: url(https://br.freepik.com/fotos-gratis/ilha-paradisiaca-bonita-com-praia-e-mar_3531645.htm#page=1&query=praia&position=2); 
 	background:#FFBBB8;
 	color: #FFF;
 	background-size: cover;
@@ -28,6 +29,6 @@ li{
 }
 img{ 
 	image: cover;
-	background-image: (https://www.instagram.com/p/B8Wn8YZBB6a/);
+	background-image: (https://br.freepik.com/fotos-gratis/ilha-paradisiaca-bonita-com-praia-e-mar_3531645.htm#page=1&query=praia&position=2);
  }
 #slogan
