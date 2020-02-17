@@ -18,9 +18,13 @@ h1{
 }
 
 p{
+	font-family: serif;
 	font-size: 18px; 
 	line-height: 1.5em;
 	margin: 2em;
+}
+strong{
+	font-variant: small-caps;
 }
 ul{
 	font-size: 22px;
