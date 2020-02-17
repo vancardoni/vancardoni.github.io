@@ -10,11 +10,15 @@ body {
 
 h1{
 	text-align: center;
-	font-size: 32px;
+	font-size: 1.5em;
 	color: #4BA6B3;
 	font-family: Source Sans Pro;
 	font-style: italic;
 
+}
+
+h2{
+	font-size: 2em;
 }
 
 p{
