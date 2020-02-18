@@ -8,26 +8,29 @@ body {
 	background:#E8D5D3;
 	color: #000;
 	background-size: cover;
-	font-family: Source Sans Pro;
+	background-image: center;
+	font-family: 'Source Sans Pro';
 
 }
 
 h1{
-	font-family: 'Rock Salt'
+	font-family: 'Rock Salt';
 	text-align: center;
 	font-size: 1.5em;
 	color: #4BA6B3;
-	font-family: Source Sans Pro;
+	font-family: 'Source Sans Pro';
 	font-style: italic;
 
 }
 
 h2{
 	font-size: 2em;
+	text-align: center;
 }
 
 p{
 	font-family: serif;
+	text-align: center;
 	font-size: 18px; 
 	line-height: 1.5em;
 	margin: 2em;
