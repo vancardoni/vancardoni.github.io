@@ -4,10 +4,11 @@
 
 body {
 	text-align: center;
-	font-family: 'Rock Salt', san-serif;
+	background: url(https://image.freepik.com/fotos-gratis/ilha-paradisiaca-bonita-com-praia-e-mar_74190-1023.jpg); 
 	background:#E8D5D3;
-	font-size: 18px;
-	margin:2em;
+	color: #000;
+	font-family: 'Source Sans Pro';
+
 }
 
 h1{
