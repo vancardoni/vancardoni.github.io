@@ -4,7 +4,7 @@
 
 body {
 	text-align: center;
-	font-family: 'IBM Plex Sans', san-serif;
+	font-family: 'Rock Salt', san-serif;
 	background:#E8D5D3;
 	font-size: 18px;
 	margin:2em;
@@ -19,11 +19,6 @@ h1{
 	font-style: italic;
 
 p{
-	display: block;
-	margin-block-start: 1em;
-	margin-block-end:1em;
-	margin-inline-start:0px;
-	margin-inline-end:0px;
 	font-family: serif;
 	text-align: center;
 	font-size: 18px; 
