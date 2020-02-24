@@ -19,23 +19,17 @@ h1{
 	background-color:#fff;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-style: italic;
-
 }
 
-h2{
-	font-size: 2em;
-	text-align: center;
-}
 
 p{
 	font-family: serif;
+	text-align: center;
 	font-size: 18px; 
 	line-height: 1.5em;
 	margin: 2em;
 }
-strong{
-	font-variant: small-caps;
-}
+
 ul{
 	font-size: 16px;
 	text-align: center;
