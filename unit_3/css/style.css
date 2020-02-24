@@ -19,19 +19,19 @@ h1{
 
 }
 
-p{
-	font-size: 18px;
+h2{
+	font-size: 2em;
 	text-align: center;
-	letter-spacing: 1.5em
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: italic;
 }
 
 p{
-	font-family: 'Open Sans Condensed', sans-serif;;
+	font-family: serif;
 	font-size: 18px; 
 	line-height: 1.5em;
 	margin: 2em;
-	
+	font-style: italic;
+
 ul{
 	font-size: 16px;
 	text-align: center;
