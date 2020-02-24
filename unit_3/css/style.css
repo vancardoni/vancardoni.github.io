@@ -1,3 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap');
+</style>
 
 body {
 	text-align: center;
@@ -22,7 +25,6 @@ h1{
 h2{
 	font-size: 2em;
 	text-align: center;
-	font-style: italic;
 }
 
 p{
@@ -30,8 +32,10 @@ p{
 	font-size: 18px; 
 	line-height: 1.5em;
 	margin: 2em;
-	font-style: italic;
-
+}
+strong{
+	font-variant: small-caps;
+}
 ul{
 	font-size: 16px;
 	text-align: center;
