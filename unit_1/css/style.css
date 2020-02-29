@@ -1,5 +1,7 @@
 body {
 	background-color: mistyrose;
+	background-image: "images/beachsunset.jpg";
+	background-size: cover;
 }
 
 h1, p {
