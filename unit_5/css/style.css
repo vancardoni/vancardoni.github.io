@@ -40,6 +40,7 @@ h1,h2 {
 img {
 	display: block;
 	margin: 0 auto;
+	text-align:center;
 }
 
 p{
@@ -76,7 +77,6 @@ footer {
 	background-color: #FF957E;
 }
 
-
 aside {
 	background-color: #FFC675;
 }
@@ -85,8 +85,15 @@ article {
 	background-color: #E89C6C;
 }
 
-a{
-	background-color: white;
+#sidebar{
+	float: right;
 }
 
+#wrapper {background-color: #FFF;
+width:960px;
+}
+
+#header {
+background-color: #FFED74;
+}
 
