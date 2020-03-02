@@ -1,6 +1,4 @@
-<style>
 @import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap');
-</style>
 
 body {
 	font-size: 18px;
@@ -23,12 +21,11 @@ nav {
 	font-style: italic;
 	font-family: georgia, sans-serif;
 	text-align: right;
-	padding: 10px
+	padding: 10px;
 }
 
 h1,h2 {
 	text-transform: uppercase;
-	border-bottom: 4px solid black;
 	display: inline-block;
 	padding: .8em 0;
 	text-align: center;
@@ -90,9 +87,6 @@ article {
 	float: right;
 }
 
-#wrapper {background-color: #FFF;
-width:960px;
-}
 
 #header {
 background-color: #FFED74;
