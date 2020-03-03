@@ -86,17 +86,19 @@ ul{
 }
 
 li{
+	float: left;
+	width: 50%
+	height:6em;
 	font-size: 14px;
-	display: inline;
 	background-color: white;
 }
 
 div {background-color: #FFE2B8; 
-	margin: 4em;
-	padding: 2em 3em 0 3em;
-	font-size: 1.2em
-	width: 50%;
 	display: inline-block;
+	margin: 4em;
+	padding: 2%;
+	width: 46%;
+	font-size: 1.2em
 }
 
 #impact {
