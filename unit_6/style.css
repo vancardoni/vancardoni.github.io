@@ -5,7 +5,7 @@ body {
 	text-align: center;
 	background:#E8D5D3;
 	color: #000;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Libre Baskerville', sans-serif;
 }
 
 header{
@@ -16,11 +16,17 @@ header{
 }
 
 nav {
-	background-color: #E8C66A;
-	font-size: 20px;
-	font-style: italic;
+	font-size: 1.8em;
+	float: right;
 	font-family: georgia, sans-serif;
 	padding: 10px;
+}
+
+nav a {
+	text-decoration:none;
+	color: #000000;
+	margin: 1.8em;
+	display: inline-block;
 }
 
 a {
@@ -47,19 +53,28 @@ a:hover {
 
 h1,h2 {
 	text-transform: uppercase;
+	border-bottom: 4px solid;
 	display: inline-block;
 	padding: .8em 0;
 	text-align: center;
 	font-size: 1.5em;
+	font-weight: 800;
 	color: #4BA6B3;
 	font-family: 'Rock Salt', sans-serif;
-	font-style: italic;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.5em;
+	padding: .8em 0;
 }
 
 img {
 	display: block;
 	margin: 0 auto;
-	text-align:center;
 }
 
 p{
