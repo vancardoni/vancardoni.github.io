@@ -94,12 +94,26 @@ li{
 div {background-color: #FFE2B8; 
 	margin: 4em;
 	padding: 2em 3em 0 3em;
+	font-size: 1.2em
+	width: 50%;
+	display: inline-block;
+}
+
+#impact {
+	float: left;
+
+}
+
+#products {
+	float: right;
+
 }
 
 footer {
 	text-align: center;
 	padding: 1em 0;
 	background-color: #FF957E;
+	clear: both;
 }
 
 aside {
