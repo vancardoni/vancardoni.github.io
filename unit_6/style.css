@@ -2,10 +2,10 @@
 
 body {
 	font-size: 18px;
+	font-family: 'Libre Baskerville', sans-serif;
 	text-align: center;
 	background:#E8D5D3;
 	color: #000;
-	font-family: 'Libre Baskerville', sans-serif;
 }
 
 header{
@@ -90,6 +90,7 @@ li{
 	width: 50%
 	height:6em;
 	font-size: 14px;
+	display: inline;
 	background-color: white;
 }
 
