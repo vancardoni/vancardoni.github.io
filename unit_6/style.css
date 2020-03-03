@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap');
+
+body {
+	font-size: 18px;
+	text-align: center;
+	background:#E8D5D3;
+	color: #000;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+header{
+	background-color:#FFED74;
+	border: 1px solid;
+	padding: 20px;
+	text-align: center;
+}
+
+nav {
+	background-color: #E8C66A;
+	font-size: 20px;
+	font-style: italic;
+	font-family: georgia, sans-serif;
+	text-align: right;
+	padding: 10px;
+}
+
+a {
+	background-color: #ff7900;
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	width: 200px;
+}
+
+a:hover {
+	background-color: #aaaaaa;
+}
+
+h1,h2 {
+	text-transform: uppercase;
+	display: inline-block;
+	padding: .8em 0;
+	text-align: center;
+	font-size: 1.5em;
+	color: #4BA6B3;
+	font-family: 'Rock Salt', sans-serif;
+	font-style: italic;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	text-align:center;
+}
+
+p{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-size: 18px; 
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+ul{
+	font-size: 14px;
+	text-align: center;
+	list-style: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin: 0;
+	padding: 0
+}
+
+li{
+	font-size: 14px;
+	display: inline;
+	background-color: white;
+}
+
+div {background-color: #FFE2B8; 
+	margin: 4em;
+	padding: 2em 3em 0 3em;
+}
+
+footer {
+	text-align: center;
+	padding: 1em 0;
+	background-color: #FF957E;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+article {
+	background-color: #E89C6C;
+}
+
+#sidebar{
+	float: right;
+}
+
+
+#header {
+background-color: #FFED74;
+}
+
