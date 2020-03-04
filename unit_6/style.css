@@ -58,6 +58,7 @@ nav a {
 	display: inline-block;
 }
 
+
 section {
 	background: #222;
 	color: #fff;
@@ -93,4 +94,30 @@ footer {
 	padding: 1em 0;
 	background-color: #FF957E;
 	clear: both;
+}
+
+
+aside {
+background-color: #FFC675;
+}
+
+article {
+background-color: #E89C6C;
+}
+
+#sidebar{
+float: right;
+}
+
+header{
+background-color:#FFED74;
+border: 1px solid;
+padding: 10px;
+text-align: center;
+font-family: Libre Baskerville, sans-serif;
+}
+
+
+a:hover {
+background-color: #aaaaaa;
 }
