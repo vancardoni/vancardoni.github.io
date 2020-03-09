@@ -3,6 +3,7 @@
 body {
 	font-size: 18px;
 	font-family: 'Libre Baskerville', sans-serif;
+	background-color: black;
 }
 
 h1,h2 {
@@ -66,16 +67,21 @@ section {
 }
 
 div {
-	display: inline-block;
+	background-color: #FFE2B8;
 	padding: 2%;
 	width: 46%;
 	font-size: 1.2em
+	border: 1px black solid;
 }
 
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
+}
+
+section {
+	display: block;
 }
 
 #left {
