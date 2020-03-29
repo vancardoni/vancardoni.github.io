@@ -16,7 +16,7 @@ h1 {
 h2 {
   font-size: 26px;
   padding: 13px 0;
-  color: #fffebb;
+  color: black;
   border-bottom-color: #fffebb;
 }
 
@@ -35,7 +35,7 @@ li {
   text-align: center;
   line-height: 100px;
   color: black;
-  background: white;
+  background: #ffcad0;
 }
 
 div {
