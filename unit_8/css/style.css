@@ -70,12 +70,12 @@ img {
 }
 
 #hero {
-  background: #fffebb;
+  background: #ffcad0;
 }
 
 section {
   background: #ccfdf2;
-  color: white;
+  color: #fffebb;
   overflow: auto;
 }
 
